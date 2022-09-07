@@ -83,8 +83,5 @@
 <!-- /wp:html -->
 
 <!-- wp:html -->
-<div>
-<h3>Related posts to Tailblocks - Ready to use blocks by Tailwind CSS:-</h3>
-<p></p></div>
-<!-- /wp:html -->
+
 
